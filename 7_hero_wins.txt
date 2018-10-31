@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Luckily for the whole world, the anti-virus "AVAST" defeats "Virus Lolipop" in one super mega epic move.
-=======
+
 Luckily for the whole world, the anti-virus "AVAST" defeats "Dangerous virus" in one super mega epic move.
 his side-kick filed all the paperwork so our hero didn't had to do it. He could drink a nice pint of lager instead.
->>>>>>> 523c5fec2cf2d9643a21e04e58619f473e161d13
+
