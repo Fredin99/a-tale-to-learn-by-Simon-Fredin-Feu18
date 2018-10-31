@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Meanwhile, the anti-virus soared through the landscape, searching for viruses to defeat.
+=======
+The anti-virus soared through the landscape, searching for viruses to defeat.
+>>>>>>> 523c5fec2cf2d9643a21e04e58619f473e161d13
